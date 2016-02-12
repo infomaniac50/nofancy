@@ -144,7 +144,6 @@ body {
 
 .post-content {
 	z-index:9;
-	overflow:auto;
 	padding:0;
 	padding-bottom:3em;
 	font-size:16px;
